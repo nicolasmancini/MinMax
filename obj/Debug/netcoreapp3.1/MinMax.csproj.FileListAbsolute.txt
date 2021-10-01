@@ -1,0 +1,13 @@
+C:\Users\nicolas.mancini.ITT\source\repos\MinMax\bin\Debug\netcoreapp3.1\MinMax.exe
+C:\Users\nicolas.mancini.ITT\source\repos\MinMax\bin\Debug\netcoreapp3.1\MinMax.deps.json
+C:\Users\nicolas.mancini.ITT\source\repos\MinMax\bin\Debug\netcoreapp3.1\MinMax.runtimeconfig.json
+C:\Users\nicolas.mancini.ITT\source\repos\MinMax\bin\Debug\netcoreapp3.1\MinMax.runtimeconfig.dev.json
+C:\Users\nicolas.mancini.ITT\source\repos\MinMax\bin\Debug\netcoreapp3.1\MinMax.dll
+C:\Users\nicolas.mancini.ITT\source\repos\MinMax\bin\Debug\netcoreapp3.1\MinMax.pdb
+C:\Users\nicolas.mancini.ITT\source\repos\MinMax\obj\Debug\netcoreapp3.1\MinMax.csproj.AssemblyReference.cache
+C:\Users\nicolas.mancini.ITT\source\repos\MinMax\obj\Debug\netcoreapp3.1\MinMax.AssemblyInfoInputs.cache
+C:\Users\nicolas.mancini.ITT\source\repos\MinMax\obj\Debug\netcoreapp3.1\MinMax.AssemblyInfo.cs
+C:\Users\nicolas.mancini.ITT\source\repos\MinMax\obj\Debug\netcoreapp3.1\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.mancini.ITT\source\repos\MinMax\obj\Debug\netcoreapp3.1\MinMax.dll
+C:\Users\nicolas.mancini.ITT\source\repos\MinMax\obj\Debug\netcoreapp3.1\MinMax.pdb
+C:\Users\nicolas.mancini.ITT\source\repos\MinMax\obj\Debug\netcoreapp3.1\MinMax.genruntimeconfig.cache
